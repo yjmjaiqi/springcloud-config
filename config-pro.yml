@@ -1,4 +1,4 @@
 config:
-  info: "main branch springcloud-config/config-pro.yml version=1"
+  info: "main branch springcloud-config/config-pro.yml version=2"
 server:
   port: 3355
