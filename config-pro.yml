@@ -1,4 +1,4 @@
-data:
-  env: product
+config:
+  info: product
 server:
   port: 11001
