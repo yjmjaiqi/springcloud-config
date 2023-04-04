@@ -1,0 +1,5 @@
+spring:
+  Application:
+    Name: demo
+Server:
+  Port: 10011
